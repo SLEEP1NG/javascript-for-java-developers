@@ -1,0 +1,75 @@
+
+
+Netscape Nav 2.0
+Lars
+
+JVM vs JSVM
+Starbucks vs. local coffee shop
+tv (java == on button same place)
+java = consistency
+js = resiliency (feature detection, polyfill)
+
+
+java versions 
+js versions
+
+
+groovy brings dynamic to the jvm
+typescript brings strong typing to js
+transpiling
+
+does java have global?
+does js?
+lexical scoping
+
+js var, let
+js const
+object freeze
+
+
+java == vs. javascript ==
+===
+type coercion
+
+
+Static typing vs. dynamic typing
+java class, interface
+js class, prototype
+JSON === object literal 
+(js === objects without classes)
+why? no strong typing
+object.assign({}, foo)
+
+java constructor
+js constructor
+extends
+
+
+java private, public
+js export
+
+
+getter, setter
+
+static vs dynamic
+strong vs weak
+(enforced vs relaxed)
+
+java overloading
+javascript spread, rest
+
+
+function as first class citizen
+closures
+imperative loop through array
+functional map/reduce
+
+java "this"
+js "this"
+
+
+metaprogramming 
+string.shout
+Groovy, JavaScript
+
+
